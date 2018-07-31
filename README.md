@@ -5,6 +5,6 @@ dotfiles.
 
 Table of Contents
 
-
-
-the
+| Format  | Location | Description                              |
+|---------|----------|------------------------------------------|
+| Webpack | Webpack  | Module bundler that works great with the most modern of front-end workflows including Babel, ReactJS, CommonJS, among others.               |
