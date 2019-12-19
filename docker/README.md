@@ -13,7 +13,7 @@
   `docker system df`
   - Show the images, container sizes on your system
 
-  `docker prune volumes`
+  `docker volume prune`
   - Remove all the volumes
 
 
