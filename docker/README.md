@@ -15,5 +15,7 @@
 
   `docker volume prune`
   - Remove all the volumes
-
+  
+  `docker-compose build`
+  - Rebuilds the image containers
 
